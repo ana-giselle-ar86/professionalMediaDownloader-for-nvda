@@ -6,12 +6,12 @@ addon_info = AddonInfo(
 	addon_summary=_("Professional Media Downloader"),
 	addon_description=_("A professional tool to download high-quality audio and video from over 1000 websites with auto-clipboard fetch and multi-language support."),
 	    addon_changelog=_("look at changelog.md"),
-	addon_version="26.5.7",
+	addon_version="26.5.8",
 	addon_author="Umesh Rathore",
 	addon_url="https://github.com/umesh-rathore2932/professionalMediaDownloader-for-nvda",
 	addon_docFileName="readme.html",
 	addon_minimumNVDAVersion="2021.1",
-	addon_lastTestedNVDAVersion="2026.1",
+	addon_lastTestedNVDAVersion="2026.1.1",
 	addon_updateChannel=None,
 )
 
