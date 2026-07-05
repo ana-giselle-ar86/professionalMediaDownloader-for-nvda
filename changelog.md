@@ -1,4 +1,7 @@
 # Changelog
+## version 26.5.8
+* spanish translation has been added.
+* new yt-dlp.exe.
 ## version 26.5.6
 * version changing: now plugin is updating based date or year or month like 26.5.6
 * now fully compatible and testible for nvda 2026.1!
